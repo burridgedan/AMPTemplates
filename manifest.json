@@ -1,9 +1,9 @@
 {
     "id": "0bb219d6-0255-4dff-b8e3-4e0c8139f635",
     "authors": ["Greelan"],
-    "origin": "https://github.com/Greelan/AMPTemplates.git",
-    "url": "https://github.com/Greelan/AMPTemplates/tree/dev",
+    "origin": "https://github.com/burridgedan/AMPTemplates.git",
+    "url": "https://github.com/burridgedan/AMPTemplates/tree/dev",
     "imagefile": "",
-    "prefix": "Greelan",
+    "prefix": "burridge",
     "repotype": "AppTemplates"
 }
